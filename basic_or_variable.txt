@@ -3,5 +3,3 @@
 2. - variables are container in js
    - which value may change or not 
    - which occupied particular memory 
-
-3.
